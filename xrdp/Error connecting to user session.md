@@ -78,6 +78,7 @@ Upgrading (only) the AUR packages:
 ## Fix archlinux error connection to user session  For XFCE
 
 To create a script named xrdp_start_wm.sh that starts an XFCE desktop environment for use with XRDP, you can follow these steps:
+in /etc/xrdp/xrdp_start_wm.sh
 
 ```bash
   nano xrdp_start_wm.sh
