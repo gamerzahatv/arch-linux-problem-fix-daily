@@ -1,2 +1,2 @@
-# arch-linux-problem-fix-daily
-Experience in fixing archlinux
+# linux-problem-fix-daily
+Experience in fixing linux
